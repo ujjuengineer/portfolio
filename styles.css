@@ -1,0 +1,85 @@
+.intro{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+hr{
+    size: 1px;
+    color: black;
+    border: solid black 1px;
+    width: auto;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+figure{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: pink; */
+    width: 210px;
+    max-width: 220px;
+}
+img{
+    width: 200px;
+    border: solid black 3px;
+    border-radius: 20%;
+    margin-top: 0px;
+}
+figcaption{
+    background-color: black;
+    color: antiquewhite;
+}
+ul{
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.education, .skill, .project{
+    margin-left: 5%;
+}
+.education h2, .skill h2, .project h2{
+    background-color: black;
+    color: antiquewhite;
+    width: 200px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+tr{
+    font-size: large;
+    text-align: left;
+}
+footer{
+    background-color: rgb(152, 147, 147);
+    color: black;
+}
+div{
+    text-align: center;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    width: 80%;
+}
+.foot h2{
+    background-color: black;
+    color: antiquewhite;
+    width: 250px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foot a{
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: green;
+}
